@@ -48,7 +48,7 @@ function App() {
   return (
     <Context.Provider value={{removeTodo, toggleTodo}}> 
       <div className="wrapper">
-        <h1>React Project</h1>
+        <h1>React tutorial</h1>
 
         <Modal />
 
